@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+nav {
+    text-align: left;
+}
+
+.login-card {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 200px;
+    padding: 30px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+
+label {
+    text-align: left;
+}
+
+.create-post {
+    display: flex;
+    justify-content: center;
+    margin-top: 40%;
+}

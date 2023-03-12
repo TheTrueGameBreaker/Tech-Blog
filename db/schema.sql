@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS dev_logs_db;
+
+CREATE DATABASE dev_logs_db;
