@@ -1,5 +1,7 @@
 # Tech Blog
 
+Visit site: https://tech-blog-davisgenthner.herokuapp.com/login
+
 ## Description
 
 This website hosts a place where developers are able to post and communicate with other developers within a blog. This way more developers are able to be apart of a community.
